@@ -25,7 +25,7 @@
 This is a simple python script designed to scrape fraud cases from wikipedia using BeautifulSoup Python Module. Thw aim is to scrape data available on the web page for further analysis.
 
 * Country
-* Reprorted Fraud Cases Per 100,000
+* Reported Fraud Cases Per 100,000
 * Year
 
 This python script scrapes from the [https://en.wikipedia.org/wiki/Fraud#United_Kingdom] website then transforms the data into pandas DataFrame for exporting as a csv file to the local machine.
